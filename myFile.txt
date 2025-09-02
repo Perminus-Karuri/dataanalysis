@@ -1,0 +1,2 @@
+This is about exception handling
+Also uses the finally statement

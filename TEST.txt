@@ -1,0 +1,4 @@
+Name Gen Age
+Deng M 21
+Lynne F 17
+Bryan M 33
