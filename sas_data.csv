@@ -1,0 +1,9 @@
+_NAME_,_CLASS_,_KEYNAME_,_STARTDATE_,_ENDDATE_,_DATEINTRVL_,_STARTDT_,_ENDDT_,_DTINTRVL_,_STARTOBS_,_ENDOBS_,_OBSINTRVL_,_TYPE_,_VALUE_,_PULSE_,_DUR_BEFORE_,_DUR_AFTER_,_SLOPE_BEF_,_SLOPE_AFT_,_SHIFT_,_TCPARM_,_RULE_,_PERIOD_,_LABEL_,_LOCALE_
+b'LS1',b'SIMPLE',b'.',2013-10-01,,b'.',,,b'.',,,,b'LS',1.0,b'.',0.0,,b'GROWTH',b'GROWTH',0.0,0.5,b'ADD',b'.',b'.',b'US English'
+b'POINT1',b'SIMPLE',b'.',2013-10-01,,b'.',,,b'.',,,,b'POINT',1.0,b'.',0.0,0.0,b'GROWTH',b'GROWTH',0.0,0.5,b'ADD',b'.',b'.',b'US English'
+b'RAMP1',b'SIMPLE',b'.',2013-10-01,,b'.',,,b'.',,,,b'RAMP',1.0,b'.',0.0,,b'GROWTH',b'GROWTH',0.0,0.5,b'ADD',b'.',b'.',b'US English'
+b'TC1',b'SIMPLE',b'.',2013-10-01,,b'.',,,b'.',,,,b'TC',1.0,b'.',0.0,,b'GROWTH',b'DECAY',0.0,0.5,b'ADD',b'.',b'.',b'US English'
+b'POINT2',b'SIMPLE',b'.',2013-10-01,,b'.',,,b'.',,,,b'POINT',1.0,b'.',0.0,4.0,b'GROWTH',b'GROWTH',0.0,0.5,b'ADD',b'.',b'.',b'US English'
+b'RAMP2',b'SIMPLE',b'.',2013-10-01,,b'.',,,b'.',,,,b'RAMP',1.0,b'.',4.0,4.0,b'GROWTH',b'DECAY',0.0,0.5,b'ADD',b'.',b'.',b'US English'
+b'POINT4',b'SIMPLE',b'.',2013-10-01,2014-10-01,b'QTR',,,b'.',,,,b'POINT',1.0,b'.',0.0,2.0,b'GROWTH',b'GROWTH',0.0,0.5,b'ADD',b'.',b'.',b'US English'
+b'POINT7',b'SIMPLE',b'.',2013-09-01,,b'.',,,b'.',,,,b'POINT',1.0,b'WEEK1.',0.0,0.0,b'GROWTH',b'GROWTH',0.0,0.5,b'ADD',b'MONTH',b'.',b'US English'
